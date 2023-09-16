@@ -1,0 +1,23 @@
+{
+  "name": "vue2-reactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"dev": "webpack-dev-server  --mode=development",
+		"build": "webpack"
+  },
+  "keywords": [
+    "vue2",
+    "reactive",
+    "defineProperty"
+  ],
+  "author": "lichong21",
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
